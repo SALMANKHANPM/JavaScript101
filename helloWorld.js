@@ -1,0 +1,1 @@
+console.log("Hello, World! \nWelcome to the World of JavaScript!!")
